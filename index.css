@@ -49,3 +49,19 @@
       cursor: pointer;
 }
 
+.input{
+    padding: 6px;
+    background-color: none;
+    margin: 7px;
+    border: white;
+}
+
+.button{
+  margin: 13px;
+  font-weight: lighter;
+  border-radius: 3px;
+  border: white;
+  padding: 1.5px;
+}
+
+
